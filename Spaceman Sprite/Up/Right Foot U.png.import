@@ -1,0 +1,29 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Right Foot U.png-cf658fe0325827db81e8bac2ec5e981c.stex"
+
+[deps]
+
+source_file="res://Spaceman Sprite/Up/Right Foot U.png"
+dest_files=[ "res://.import/Right Foot U.png-cf658fe0325827db81e8bac2ec5e981c.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
